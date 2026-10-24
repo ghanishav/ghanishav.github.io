@@ -31,5 +31,5 @@
 ---
 
 ### 📊 GitHub Stats
-<!-- Replace YOUR_USERNAME below with your actual GitHub handle -->
-![Ghanishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghanishavverma-maker&show_icons=true&theme=tokyonight&hide_border=true)
+instagram handle : https://instagram.com/ghanishav
+
